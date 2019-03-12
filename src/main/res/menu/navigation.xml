@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/ic_pressure"
+        android:title="@string/title_weather" />
+
+    <item
+        android:id="@+id/navigation_options"
+        android:icon="@drawable/ic_switch"
+        android:title="@string/title_options" />
+</menu>

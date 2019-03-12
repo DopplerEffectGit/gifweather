@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GIF weather</string>
+
+    <string name="title_weather">weather</string>
+    <string name="title_options">options</string>
+
+    <string name="weatherview_temp_postfix">\u2103</string>
+    <string name="weatherview_cloud_postfix">%</string>
+    <string name="weatherview_wind_postfix"> km/h</string>
+
+    <string name="options_add_country">add country to gif search</string>
+    <string name="options_add_location">add location to gif search</string>
+    <string name="options_add_prefix">add prefix to gif search</string>
+</resources>
